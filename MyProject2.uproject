@@ -12,6 +12,29 @@
 			"Name": "Substance",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/2f6439c2f9584f49809d9b13b16c2ba4"
+		},
+		{
+			"Name": "UE4EditorCustomize",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/0d22d9af59624886a6fccd9573fefa90"
+		},
+		{
+			"Name": "TransformationActorsPlugin",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/e45b06e00615453c8880ffeda1b6f5f7"
+		},
+		{
+			"Name": "InputBuffer",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/c563909f15434f63869af1cb8046a5ff"
+		},
+		{
+			"Name": "AdvancedSessions",
+			"Enabled": true
+		},
+		{
+			"Name": "AdvancedSteamSessions",
+			"Enabled": true
 		}
 	]
 }
