@@ -12,6 +12,7 @@
 			"Name": "Substance",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/2f6439c2f9584f49809d9b13b16c2ba4"
+<<<<<<< HEAD
 		},
 		{
 			"Name": "UE4EditorCustomize",
@@ -29,12 +30,10 @@
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/c563909f15434f63869af1cb8046a5ff"
 		},
 		{
-			"Name": "AdvancedSessions",
-			"Enabled": true
-		},
-		{
 			"Name": "AdvancedSteamSessions",
 			"Enabled": false
+=======
+>>>>>>> parent of 9b15459... Merge branch 'master' of https://github.com/kenGorHub/MyProject2-4.24
 		}
 	]
 }
